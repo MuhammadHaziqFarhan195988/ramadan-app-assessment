@@ -1,16 +1,20 @@
 # ramadan_app_assessment
 
-A new Flutter project.
+This is for the technical assessment for my hiring process of TODAK DIGITECH SDN BHD
 
-## Getting Started
+Current testable account:
 
-This project is a starting point for a Flutter application.
+email: haziqf6@gmail.com 
+password: haziq123
 
-A few resources to get you started if this is your first Flutter project:
+this source code runs on flutter version 3.35.7 (channel stable)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+After you have setup flutter in your computer, just clone this code, and setup (android device manager) in Android Studio.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+after that, go back to the Visual Studio Code and open the emulator in the bottom most right corner of the Visual Studio Code program and choose the emulator you have setup in the AVD manager in Android Studio
+
+and then press F5 or click run in the main() function.
+
+this app attempts to follow MVC model as close as possible, but there are some parts which i may left unfollowed due to time constraint. but essentially, everything related to functionality would be categorized in controller while the display widget will be put inside of View folder.
+
+I also use const folder to store my constant values. and for state management and global data storage, i use provider to help me.
