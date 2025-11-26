@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "564862074180",
+    "firebase_url": "https://ramadan-app-assessment-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "ramadan-app-assessment",
+    "storage_bucket": "ramadan-app-assessment.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564862074180:android:56a190d10affeb1eee2b11",
+        "android_client_info": {
+          "package_name": "com.example.ramadan_app_assessment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrImqhY5zBLJR_xrWBswRwoHjeSfuBD0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
